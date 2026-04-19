@@ -233,13 +233,14 @@ http://localhost:8080/swagger-ui.html
 
 ## 📅 Project Duration
 
-**Jan 8 – Feb 15 (6 weeks, Full‑time)**
+4 weeks
+Full‑time
 
 ---
 
 ## 👨‍💻 Author
 
-**Nikhil Kute**
+**Sreeja Thummuluri**
 Java Developer
 SpringBoot Developer
 
